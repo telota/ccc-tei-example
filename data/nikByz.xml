@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="nikByz">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>NikByz, Widerlegung des Koran, Confutatio I., section 12 und 14</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div n="12">
+            <p>Den Leuten, die die von ihm <seg type="comment"><orig>manipulierten <supplied cert="high"
+                        >Gläubigen</supplied> beschuldigen</orig><note/></seg>, weil sie sich beim
+               Beten nach Süden richten, soll man, sagt er, nichts anderes antworten als:
+                     <quote><supplied cert="high">dies geschehe,</supplied> um ihre Ehrerbietung
+                        gegenüber <persName key="ed_ugx_cwm_zfb" ref="http://d-nb.info/gnd/118583158">Muhammad</persName> zu zeigen und sich von den Menschen, die
+                  das nicht tun, zu unterscheiden<!-- vgl. S. 2, 148-150 -->.</quote> Daher ein
+               Bravo der götlichen Weisheit, die die Muslime auch dadurch abgesondert und als
+               Verehrer des wirklichen Dunkels überführt hat! Damit seine List auch noch ganz
+               deutlich werde, stiftet er die unglücklichen Barbaren dazu an, das in
+               <placeName key="ed_e4l_rwm_zfb">Baka</placeName> befindliche Götzenbild, das er Anbetungsobjekt des
+               Gottesdienstes nenn, anzubeten. Denn er sagt: <quote>"Wo <supplied cert="high"
+                     >immer</supplied> ihr seid, richtet eure Gesichter in die Richtung der
+                  Gebetsstätte des Gottestdienstes"<!-- S. 2, 150 --></quote>. Ferner sagt er von
+               zwei barbarischen Namen, <persName key="ed_mxr_kwm_zfb">Safa</persName> und <persName key="ed_h1b_lwm_zfb">Marwa</persName>,
+               sie gehörten zu den heiligen Zeichen Gottes, sicher nur eines Gottes. Ferner befiehlt
+               er den von ihm Betrogenen, wenn sie zu dem dort befindlichen unreinen Gebäude der
+               Gebetsstätte gekommen seien, im Kreis darum herumzugehen<!-- vgl. S. 2, 158 -->. Wie
+               wir von einem ihrer Leute erfahren haben, der zu den Christen gekommen ist, sitzt in
+               der Mitte des Hauses ein steinernes Götzenbild. Die Leute also, die den Auftrag
+                     <seg type="comment"><orig>dieses vom Teufel besessenen Mannes</orig><note/></seg> erfüllen,
+               neigen ihre unglücklichen Nacken, strecken die eine Hand in die Höhe zu dem
+               Götzenbild hin, halten mit der anderen ihr Ohr fest und laufen im Kreis herum, bis
+               sie von Schwindel ergriffen niederfallen. Ich glaube, diese Statue ist jenes bekannte
+               Götzenbild der <persName key="ed_ymw_lwm_zfb" ref="http://d-nb.info/gnd/118649809">Aphrodite</persName>, wie sie wohl auch selbst sagen würden.
+               Aufs beste erweist sich dadurch, daß dieses Buch von Gott geschenkt und as dem Himmel
+               gekommen ist.</p>
+         </div>
+         <div n="13">
+            <p>[...]</p>
+         </div>
+         <div n="14">
+            <p>Nach jenem <seg type="comment"><orig>frevlerischen Fasten</orig><note/></seg> ruft er sie zum Krieg
+               gegen uns auf mit den Worten: <quote>"Tötet sie, wo immer ihr sie
+                  trefft!"<!-- S. 2,191 --></quote>. Indem er ihnen die Regeln der Liebe, wie es
+               angemessen ist, festsetzt, sagt er: <quote>"Wer Groll gegen euch hegt, dem seid
+                  feind, so wie er euch feind ist!"<!-- S.2,190,194 --></quote>. Indem er sie
+               lügnerisch zu Enthaltsamkeit und Besonnenheit anspornt, sagt er: <quote>Eure Frauen
+                  sind euer Saatfeld; geht zu euren Saatfeldern, wo <supplied cert="high"
+                     >immer</supplied> ihr wollt, und vereinigt euch mit ihnen nach eurem
+                  Belieben!"<!-- vgl. S.2, 223 --></quote>, das heißt: erfüllt jede Begierde eurer
+               Herzen. <seg type="comment"><orig>Dieses Leben ist also tierisch oder besser
+                  teuflisch.</orig><note/></seg> Bei der Erwähnung der Scheidung der Frau vom Mann
+               sagt er folgendes zu den Barbaren: <quote>"Wenn jemand seine Frau entläßt, soll es
+                  ihm nach ihrer Entlassung nicht erlaubt sein <supplied cert="high">sie wieder zu
+                     heiraten</supplied>, bis sie einen anderen Mann heiratet; und wenn der zweite
+                     <supplied cert="high">Ehemann</supplied> sie entläßt, dann ist es für sie kein
+                  Vergehen, wenn sie sich wieder einander zuwenden"</quote>, denn, sagt er,
+                  <quote>"das sind die Gebote Gottes"</quote><!-- S.2, 230 -->. Oh weg mit der
+                     <seg type="comment"><orig>barbarischen Ausschweifung</orig><note/></seg>!</p>
+         </div>
+      </body>
+  </text>
+</TEI>
+
